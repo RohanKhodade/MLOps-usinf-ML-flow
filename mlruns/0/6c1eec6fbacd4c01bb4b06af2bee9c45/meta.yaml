@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6c1eec6fbacd4c01bb4b06af2bee9c45/artifacts
+end_time: 1747110604187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c1eec6fbacd4c01bb4b06af2bee9c45
+run_name: beautiful-zebra-857
+run_uuid: 6c1eec6fbacd4c01bb4b06af2bee9c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110604022
+status: 4
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/14a59838d2a74298a67fb2d49278a36a/artifacts
+end_time: 1747111480375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14a59838d2a74298a67fb2d49278a36a
+run_name: vaunted-horse-380
+run_uuid: 14a59838d2a74298a67fb2d49278a36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747111477798
+status: 3
+tags: []
+user_id: HP

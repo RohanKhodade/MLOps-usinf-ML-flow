@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/157680559376718698/259cbc7496d141c1b684df04353b75fd/artifacts
+end_time: 1747112222332
+entry_point_name: ''
+experiment_id: '157680559376718698'
+lifecycle_stage: active
+run_id: 259cbc7496d141c1b684df04353b75fd
+run_name: vaunted-snail-751
+run_uuid: 259cbc7496d141c1b684df04353b75fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747112221472
+status: 3
+tags: []
+user_id: HP
