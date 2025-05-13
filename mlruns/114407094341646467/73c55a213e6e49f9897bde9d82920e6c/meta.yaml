@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/73c55a213e6e49f9897bde9d82920e6c/artifacts
+end_time: 1747118002896
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: 73c55a213e6e49f9897bde9d82920e6c
+run_name: languid-squirrel-233
+run_uuid: 73c55a213e6e49f9897bde9d82920e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118002843
+status: 3
+tags: []
+user_id: HP

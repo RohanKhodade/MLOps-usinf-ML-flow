@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/9ebe140d7b5146439aa583a796f98393/artifacts
+end_time: 1747118003093
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: 9ebe140d7b5146439aa583a796f98393
+run_name: masked-toad-532
+run_uuid: 9ebe140d7b5146439aa583a796f98393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118003037
+status: 3
+tags: []
+user_id: HP

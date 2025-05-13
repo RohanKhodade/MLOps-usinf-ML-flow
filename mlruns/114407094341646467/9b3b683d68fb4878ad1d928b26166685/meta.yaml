@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/9b3b683d68fb4878ad1d928b26166685/artifacts
+end_time: 1747118003154
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: 9b3b683d68fb4878ad1d928b26166685
+run_name: unleashed-cub-390
+run_uuid: 9b3b683d68fb4878ad1d928b26166685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118003101
+status: 3
+tags: []
+user_id: HP

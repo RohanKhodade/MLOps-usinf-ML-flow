@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467
+creation_time: 1747117997486
+experiment_id: '114407094341646467'
+last_update_time: 1747117997486
+lifecycle_stage: active
+name: breast_cancer-rf-gridsearch

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/19248d33307c40efa6bb6695713d712d/artifacts
+end_time: 1747117932089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19248d33307c40efa6bb6695713d712d
+run_name: languid-rook-740
+run_uuid: 19248d33307c40efa6bb6695713d712d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117932024
+status: 3
+tags: []
+user_id: HP

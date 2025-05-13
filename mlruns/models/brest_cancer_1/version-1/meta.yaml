@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1747118596647
+current_stage: None
+description: ''
+last_updated_timestamp: 1747118596647
+name: brest_cancer_1
+run_id: e09fc9f28456445683fa79ab81d6eda7
+run_link: ''
+source: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/e09fc9f28456445683fa79ab81d6eda7/artifacts/random
+  forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/e09fc9f28456445683fa79ab81d6eda7/artifacts/random
+  forest
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/688f3c92acc849ffb9b47d4fc06f4cee/artifacts
+end_time: 1747117932763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688f3c92acc849ffb9b47d4fc06f4cee
+run_name: bald-hen-526
+run_uuid: 688f3c92acc849ffb9b47d4fc06f4cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117932699
+status: 3
+tags: []
+user_id: HP

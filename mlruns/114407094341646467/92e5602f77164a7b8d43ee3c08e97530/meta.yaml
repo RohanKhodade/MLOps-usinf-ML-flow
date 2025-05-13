@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/92e5602f77164a7b8d43ee3c08e97530/artifacts
+end_time: 1747118002773
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: 92e5602f77164a7b8d43ee3c08e97530
+run_name: masked-hog-216
+run_uuid: 92e5602f77164a7b8d43ee3c08e97530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118002722
+status: 3
+tags: []
+user_id: HP

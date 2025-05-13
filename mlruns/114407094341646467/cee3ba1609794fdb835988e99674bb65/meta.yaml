@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/cee3ba1609794fdb835988e99674bb65/artifacts
+end_time: 1747118002472
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: cee3ba1609794fdb835988e99674bb65
+run_name: vaunted-wolf-710
+run_uuid: cee3ba1609794fdb835988e99674bb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118002410
+status: 3
+tags: []
+user_id: HP

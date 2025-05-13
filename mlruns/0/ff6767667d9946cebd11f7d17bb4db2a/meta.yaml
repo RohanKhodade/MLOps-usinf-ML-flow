@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff6767667d9946cebd11f7d17bb4db2a/artifacts
+end_time: 1747117932012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff6767667d9946cebd11f7d17bb4db2a
+run_name: legendary-loon-783
+run_uuid: ff6767667d9946cebd11f7d17bb4db2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117931938
+status: 3
+tags: []
+user_id: HP

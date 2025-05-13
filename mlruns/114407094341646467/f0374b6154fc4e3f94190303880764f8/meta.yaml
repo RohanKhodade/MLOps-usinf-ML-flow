@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/f0374b6154fc4e3f94190303880764f8/artifacts
+end_time: 1747118003029
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: f0374b6154fc4e3f94190303880764f8
+run_name: upset-lark-74
+run_uuid: f0374b6154fc4e3f94190303880764f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118002963
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps-usinf-ML-flow/mlruns/114407094341646467/e09fc9f28456445683fa79ab81d6eda7/artifacts
+end_time: 1747118010292
+entry_point_name: ''
+experiment_id: '114407094341646467'
+lifecycle_stage: active
+run_id: e09fc9f28456445683fa79ab81d6eda7
+run_name: polite-moose-165
+run_uuid: e09fc9f28456445683fa79ab81d6eda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117998289
+status: 3
+tags: []
+user_id: HP
